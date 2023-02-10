@@ -10,3 +10,4 @@ This file contain early ideas, useful links or quick gists during the working
 - Installed gutenberg-everywhere-chrome on local, hit node error when running `yarn`, install [different node](https://www.sitepoint.com/quick-tip-multiple-versions-node-nvm/) using `nvm`
 - Run `source ~/.nvm/nvm.sh` after install to not hit the nvm not found
 - Root cause: zsh shell https://stackoverflow.com/a/29183202
+- New extension similiar to grammarly: language tool `lt-toolbar`
