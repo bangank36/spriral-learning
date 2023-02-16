@@ -15,3 +15,4 @@ This file contain early ideas, useful links or quick gists during the working
 ## 16-02-2023
 - Hit error ERR_OSSL_EVP_UNSUPPORTED [link](https://stackoverflow.com/questions/69394632/webpack-build-failing-with-err-ossl-evp-unsupported) when running [nindo-app-demo](https://github.com/CommonNinja/nindo-app-demo)
   - Use nvm to downgrade node to 16
+- Learn something new about react-query, checkout wp-calypso [site-preview-link](https://github.com/Automattic/wp-calypso/blob/5afa905af81a60c032032743378275b3663e95a3/client/components/site-preview-link/index.tsx#L78) to see how the useMutation and useQuery is combine to fetch the data and modify it. Also note that the code is written in TS
