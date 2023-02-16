@@ -11,3 +11,7 @@ This file contain early ideas, useful links or quick gists during the working
 - Run `source ~/.nvm/nvm.sh` after install to not hit the nvm not found
 - Root cause: zsh shell https://stackoverflow.com/a/29183202
 - New extension similiar to grammarly: language tool `lt-toolbar`
+
+## 16-02-2023
+- Hit error ERR_OSSL_EVP_UNSUPPORTED [link](https://stackoverflow.com/questions/69394632/webpack-build-failing-with-err-ossl-evp-unsupported) when running [nindo-app-demo](https://github.com/CommonNinja/nindo-app-demo)
+  - Use nvm to downgrade node to 16
