@@ -19,3 +19,9 @@ This file contain early ideas, useful links or quick gists during the working
 
 ## 17-02-2023
 - When pulling update from a forked repo, I realize `origin` is only for the forked one, not the origin repo https://stackoverflow.com/a/3903835
+
+## 18-02-2023
+- Aksed ChatGPT for the nvm trick `On macos terminal, I have to run this line `source ~/.nvm/nvm.sh` whenever I run nvm, how to keep it persistent
+`
+- Looping through some design systems, found out the Cloudspace Design System for AWS, there is a remarkable component for preference screen https://cloudscape.design/components/collection-preferences/?tabId=playground
+- More on this https://cloudscape.design/components/collection-preferences/?tabId=playground
