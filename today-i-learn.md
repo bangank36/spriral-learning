@@ -26,3 +26,6 @@ This file contain early ideas, useful links or quick gists during the working
 - Looping through some design systems, found out the Cloudspace Design System for AWS, there is a remarkable component for preference screen https://cloudscape.design/components/collection-preferences/?tabId=playground
 - More on this https://cloudscape.design/components/collection-preferences/?tabId=playground
 - Trying to figure the `stats` param when using webpack API for node: https://webpack.js.org/api/stats/
+
+## 19-02-2023
+- Login firebase from gitpod: it can not be redirect back to the workspace url, follow this to get the code from terminal https://stackoverflow.com/a/39620597
