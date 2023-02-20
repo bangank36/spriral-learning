@@ -31,4 +31,4 @@ This file contain early ideas, useful links or quick gists during the working
 - Login firebase from gitpod: it can not be redirect back to the workspace url, follow this to get the code from terminal https://stackoverflow.com/a/39620597
 
 ## 20-02-2023
-- Explain for why some `fetch` headers can not read the content-disposition, https://stackoverflow.com/a/43345889
+- Explain for why some `fetch` with cors headers can not read the content-disposition, https://stackoverflow.com/a/43345889 - work around https://github.com/matthew-andrews/isomorphic-fetch/issues/67#issuecomment-787073661
