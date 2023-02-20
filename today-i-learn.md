@@ -29,3 +29,6 @@ This file contain early ideas, useful links or quick gists during the working
 
 ## 19-02-2023
 - Login firebase from gitpod: it can not be redirect back to the workspace url, follow this to get the code from terminal https://stackoverflow.com/a/39620597
+
+## 20-02-2023
+- Explain for why some `fetch` headers can not read the content-disposition, https://stackoverflow.com/a/43345889
