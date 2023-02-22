@@ -39,3 +39,4 @@ This file contain early ideas, useful links or quick gists during the working
 - In firebase function .env should be in the same folder with /functions folder https://stackoverflow.com/a/71151274
 - Shopify did not support order name in API? Like #1001? https://nozzlegear.com/shopify/looking-up-a-shopify-order-by-its-name
   - Can we get the order id from liquid and it the id instead of order number? -> That's work `{{ order_id }}`
+- Some notes about res.params and res.query https://stackoverflow.com/a/9243020
