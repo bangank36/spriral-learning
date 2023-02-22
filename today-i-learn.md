@@ -36,3 +36,4 @@ This file contain early ideas, useful links or quick gists during the working
 
 ## 22-02-2023
 - Exploring Shopify API with custom app https://github.com/Shopify/shopify-api-js/blob/main/docs/guides/custom-store-app.md
+- In firebase function .env should be in the same folder with /functions folder https://stackoverflow.com/a/71151274
