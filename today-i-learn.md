@@ -32,3 +32,7 @@ This file contain early ideas, useful links or quick gists during the working
 
 ## 20-02-2023
 - Explain for why some `fetch` with cors headers can not read the content-disposition, https://stackoverflow.com/a/43345889 - work around https://github.com/matthew-andrews/isomorphic-fetch/issues/67#issuecomment-787073661
+
+
+## 22-02-2023
+- Exploring Shopify API with custom app https://github.com/Shopify/shopify-api-js/blob/main/docs/guides/custom-store-app.md
