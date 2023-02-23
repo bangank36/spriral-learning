@@ -43,3 +43,4 @@ This file contain early ideas, useful links or quick gists during the working
 
 ## 23-02-2023
 - After using compiler.run, don't forget to close it https://webpack.js.org/api/node/#run
+- Can we ignore status code and return the response regardless status? with axios `validateStatus: function (status) { return true; // always resolve the promise }`
