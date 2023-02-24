@@ -46,3 +46,6 @@ This file contain early ideas, useful links or quick gists during the working
 - Can we ignore status code and return the response regardless status? with axios `validateStatus: function (status) { return true; // always resolve the promise }`
 - Can not [deploy firebase function](https://stackoverflow.com/q/61756181), checking `.firebaserc` for correct project name *facepalm*
 - Failed to deploy, log shows that the require deps is not in functions package.json, trying copy the content to /functions... -> root cause is not all the files for functions is in same folder, workaround... https://github.com/cjmyles/firebase-monorepo
+
+## 24-02-2023
+- When up project name in firebaserc, the test url will be updated accordingly *facepalm*
