@@ -49,3 +49,4 @@ This file contain early ideas, useful links or quick gists during the working
 
 ## 24-02-2023
 - When up project name in firebaserc, the test url will be updated accordingly *facepalm*
+- Shopify `order` in liquid expect .id is a number
