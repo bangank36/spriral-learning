@@ -61,3 +61,4 @@ This file contain early ideas, useful links or quick gists during the working
 
 ## 28-02023
 - Want to intercept the browser navigation? This can be useful, though not support Firefox yet https://developer.mozilla.org/en-US/docs/Web/API/Window/navigation
+- Firebase mysterios non-firebase services https://www.reddit.com/r/Firebase/comments/j35qii/what_are_nonfirebase_services_costs/
