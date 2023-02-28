@@ -58,3 +58,6 @@ This file contain early ideas, useful links or quick gists during the working
 ## 26-02-2023
 - To deal with webpack-obfuscator not work on firebase deployment, I loaded the deps inside the webpack callback instead of putting it outsite
 - On Shopify order status `checkout.line_items` but on email template `line_items` only
+
+## 28-02023
+- Want to intercept the browser navigation? This can be useful, though not support Firefox yet https://developer.mozilla.org/en-US/docs/Web/API/Window/navigation
