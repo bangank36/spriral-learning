@@ -67,3 +67,6 @@ This file contain early ideas, useful links or quick gists during the working
 ## 02-03-2023
 - Tip to render React app to iframe with MUI: https://emotion.sh/docs/@emotion/cache#container
 - Reminder: user `container` prop to target the iframe document
+
+## 04-03-2023
+- Heads up: http-proxy-middle [Readme](https://github.com/chimurai/http-proxy-middleware) showing document for 2.0 version, but [responseInterceptor](https://github.com/chimurai/http-proxy-middleware/blob/master/recipes/response-interceptor.md) example is for 3.0. [Reference](https://togithub.com/chimurai/http-proxy-middleware/issues/807#issuecomment-1193359576)
