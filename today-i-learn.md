@@ -73,3 +73,4 @@ This file contain early ideas, useful links or quick gists during the working
 
 ## 05-03-2023
 - Firebase allow `x-frame-options` on emulator but not on production, need to explicit define this in proxy or in firebase config
+- react-app-rewired not taken in account? config-overrides.js is ignored? Keep an eye on `config-overrides-path` option in package.json to see if the overriden script is different
