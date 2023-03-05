@@ -70,3 +70,6 @@ This file contain early ideas, useful links or quick gists during the working
 
 ## 04-03-2023
 - Heads up: http-proxy-middle [Readme](https://github.com/chimurai/http-proxy-middleware) showing document for 2.0 version, but [responseInterceptor](https://github.com/chimurai/http-proxy-middleware/blob/master/recipes/response-interceptor.md) example is for 3.0. [Reference](https://togithub.com/chimurai/http-proxy-middleware/issues/807#issuecomment-1193359576)
+
+## 05-03-2023
+- Firebase allow `x-frame-options` on emulator but not on production, need to explicit define this in proxy or in firebase config
