@@ -77,3 +77,4 @@ This file contain early ideas, useful links or quick gists during the working
 
 ## 08-03-2023
 - LiquidJs custom filter https://stackoverflow.com/a/73837391
+- Forked jsfiddle for the filter demostration https://jsfiddle.net/g20he91c/
