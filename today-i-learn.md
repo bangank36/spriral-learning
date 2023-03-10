@@ -82,3 +82,6 @@ This file contain early ideas, useful links or quick gists during the working
 
 ## 09-03-2023
 - JS .closest() method includes the element itself when traverse
+
+## 10-03-2023
+- Why features are missing on in-app browser like messenger or facebook? Use this library to detect the useragent and acts accordingly https://github.com/f2etw/detect-inapp, seems like ua-parser-js did not count on this
