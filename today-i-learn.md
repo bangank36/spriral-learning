@@ -85,3 +85,6 @@ This file contain early ideas, useful links or quick gists during the working
 
 ## 10-03-2023
 - Why features are missing on in-app browser like messenger or facebook? Use this library to detect the useragent and acts accordingly https://github.com/f2etw/detect-inapp, seems like ua-parser-js did not count on this
+
+## 12-03-2023
+- Need to control youtube embeddable iframe? Dont forget `enablejsapi` https://stackoverflow.com/a/15165166 more https://developers.google.com/youtube/iframe_api_reference
