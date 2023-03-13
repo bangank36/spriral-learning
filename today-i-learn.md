@@ -88,3 +88,6 @@ This file contain early ideas, useful links or quick gists during the working
 
 ## 12-03-2023
 - Need to control youtube embeddable iframe? Dont forget `enablejsapi` https://stackoverflow.com/a/15165166 more https://developers.google.com/youtube/iframe_api_reference
+
+## 13-03-2023
+- Grab vimeo thumbnails from the URL? https://coderwall.com/p/fdrdmg/get-a-thumbnail-from-a-vimeo-video. Good format is https://depone.dev/video/ followed `https://vimeo.com/api/v2/video/{videoId}.json`
