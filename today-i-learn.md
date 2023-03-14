@@ -91,3 +91,10 @@ This file contain early ideas, useful links or quick gists during the working
 
 ## 13-03-2023
 - Grab vimeo thumbnails from the URL? https://coderwall.com/p/fdrdmg/get-a-thumbnail-from-a-vimeo-video. Good format is https://depone.dev/video/ followed `https://vimeo.com/api/v2/video/{videoId}.json`
+
+## 14-03-2023
+- Turns out there are a whole bunch of website builders that target artists: 
+  - Format.com: easy to use to tons of feature, custom code injection support
+  - [Artlogic](https://privateviews.artlogic.net/2/819b3d055d769e8bbc8074/): great for gallery, code injection is tight, but GTM supported
+  - [Artsy](https://www.artsy.net/artwork/tom-sachs-breast-cup-1): great site for art works, integrated with deep zoom with openseadragon
+  - Smugmug: looks great, tons of feature, but only css injection allow
