@@ -98,3 +98,6 @@ This file contain early ideas, useful links or quick gists during the working
   - [Artlogic](https://privateviews.artlogic.net/2/819b3d055d769e8bbc8074/): great for gallery, code injection is tight, but GTM supported
   - [Artsy](https://www.artsy.net/artwork/tom-sachs-breast-cup-1): great site for art works, integrated with deep zoom with openseadragon
   - Smugmug: looks great, tons of feature, but only css injection allow
+
+## 16-03-2023
+- Storj object URL can be changed to serve raw files without download screen, more [on this](https://forum.storj.io/t/shared-bucket-shows-empty-folders/18422/11)
