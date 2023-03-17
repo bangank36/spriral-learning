@@ -103,3 +103,6 @@ This file contain early ideas, useful links or quick gists during the working
 - Storj object URL can be changed to serve raw files without download screen, more [on this](https://forum.storj.io/t/shared-bucket-shows-empty-folders/18422/11)
 - Finding a provider to store the deepzoom images, the list goes down to Storj and Cloudflare R2. Both are generous on free tiers, but Storj seems slower than R2
 - Other images CDN like cloudinary, imagekitio, only pixelbin allow: batch upload, generous free tier, keep the folder structure in images URls, other will append random value to the images
+
+## 17-03-2023
+- When running .sh file in the working directory, should give ./ before the name to tell the terminal to look at the file in the same folder or else it will look in PATH `./magick-slicer.sh input/Art.png -o slicer-output`
