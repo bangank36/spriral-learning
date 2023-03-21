@@ -109,3 +109,5 @@ This file contain early ideas, useful links or quick gists during the working
 
 ## 21-03-2023
 - Using `tree` for print directory on macos, install it first using brew
+- tree -I 'node_modules|another_folder'
+
