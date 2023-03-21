@@ -106,3 +106,6 @@ This file contain early ideas, useful links or quick gists during the working
 
 ## 17-03-2023
 - When running .sh file in the working directory, should give ./ before the name to tell the terminal to look at the file in the same folder or else it will look in PATH `./magick-slicer.sh input/Art.png -o slicer-output`
+
+## 21-03-2023
+- Using `tree` for print directory on macos, install it first using brew
