@@ -111,3 +111,5 @@ This file contain early ideas, useful links or quick gists during the working
 - Using `tree` for print directory on macos, install it first using brew
 - tree -I 'node_modules|another_folder'
 
+## 25-03-2023
+- Latest Polaris expect style at: `import "@shopify/polaris/build/esm/styles.css";` instead of `@shopify/polaris/styles.css`
