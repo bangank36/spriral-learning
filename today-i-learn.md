@@ -114,3 +114,6 @@ This file contain early ideas, useful links or quick gists during the working
 ## 25-03-2023
 - Latest Polaris expect style at: `import "@shopify/polaris/build/esm/styles.css";` instead of `@shopify/polaris/styles.css`
 - Get the public URl for the video player of cloudinary? Grab the link `https://res.cloudinary.com/diibdgwza/video/upload/v1627385800/space/ellastudio2_tvmfww.mp4` and it will be `space/ellastudio2_tvmfww.mp4`
+
+## 02-04-2023
+- Detach the forked repo https://stackoverflow.com/a/18390313
