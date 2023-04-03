@@ -117,3 +117,6 @@ This file contain early ideas, useful links or quick gists during the working
 
 ## 02-04-2023
 - Detach the forked repo https://stackoverflow.com/a/18390313
+
+## 03-04-2023
+- Alternate DOM API in [Cloudflare](https://stackoverflow.com/a/75403727)
