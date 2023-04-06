@@ -120,3 +120,6 @@ This file contain early ideas, useful links or quick gists during the working
 
 ## 03-04-2023
 - Alternate DOM API in [Cloudflare](https://stackoverflow.com/a/75403727)
+
+## 06-04-2023
+- Need to repeat a string for testing purpose? Use this https://www.browserling.com/tools/text-repeat
