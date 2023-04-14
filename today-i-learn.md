@@ -123,3 +123,6 @@ This file contain early ideas, useful links or quick gists during the working
 
 ## 06-04-2023
 - Need to repeat a string for testing purpose? Use this https://www.browserling.com/tools/text-repeat
+
+## 14-04-2023
+- Got issue when running gulp on jonsuh/hamburgers, turns out the gulp config is outdated while the current gulp version is 4. https://stackoverflow.com/a/54719495
