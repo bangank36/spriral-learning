@@ -126,3 +126,5 @@ This file contain early ideas, useful links or quick gists during the working
 
 ## 14-04-2023
 - Got issue when running gulp on jonsuh/hamburgers, turns out the gulp config is outdated while the current gulp version is 4. https://stackoverflow.com/a/54719495
+- Github action to auto bump version https://github.com/marketplace/actions/github-tag, nit: change the correct branch name
+- Github API to get the version https://stackoverflow.com/a/64583781
