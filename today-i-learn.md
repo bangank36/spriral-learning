@@ -131,3 +131,6 @@ This file contain early ideas, useful links or quick gists during the working
 
 ## 15-04-2023
 - MUI select component onChange expects second param as the new value https://stackoverflow.com/a/74079987, not the event param
+
+## 19-04-2023
+- https://datasette.io/ for importing csv and query them using SQL syntax
