@@ -134,3 +134,6 @@ This file contain early ideas, useful links or quick gists during the working
 
 ## 19-04-2023
 - https://datasette.io/ for importing csv and query them using SQL syntax
+
+## 22-04-2023
+- `HTMLRewriter is a poor fit for HTML scraping. It’s API is geared towards rewriting a HTML response, not extracting data from it`
