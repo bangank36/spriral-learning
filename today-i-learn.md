@@ -137,3 +137,6 @@ This file contain early ideas, useful links or quick gists during the working
 
 ## 22-04-2023
 - `HTMLRewriter is a poor fit for HTML scraping. It’s API is geared towards rewriting a HTML response, not extracting data from it`
+
+## 24-04-2023
+- CRA did not allow to use location directly, window.location works https://stackoverflow.com/a/44998181
