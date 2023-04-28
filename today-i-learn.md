@@ -140,3 +140,6 @@ This file contain early ideas, useful links or quick gists during the working
 
 ## 24-04-2023
 - CRA did not allow to use location directly, window.location works https://stackoverflow.com/a/44998181
+
+## 28-04-2023
+- .slice(0,-1) to get the array from beginning to second-to-last items
