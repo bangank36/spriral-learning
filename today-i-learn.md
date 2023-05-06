@@ -147,3 +147,6 @@ This file contain early ideas, useful links or quick gists during the working
 ## 06-May-2023
 - By default Cloudflare HTMLRewriter sanitize the content in .before() or .after(), we need to set the contentOptions in order to parse correct html https://github.com/cloudflare/workers-types/issues/9#issue-510825698
 - Extract image metadata on browser using https://mutiny.cz/exifr/
+```
+window.exifr.parse('https://images.squarespace-cdn.com/content/v1/5e2bd0e12d65b351475dae37/1668287141998-IK2C7FYRB02EKBJP0F6C/2022-ukraine-war-picture-story-first-place-1-81a7d6.jpg?format=2500w', {iptc: true}).then(exif => console.log(exif.ObjectName))
+```
