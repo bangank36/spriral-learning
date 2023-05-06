@@ -146,3 +146,4 @@ This file contain early ideas, useful links or quick gists during the working
 
 ## 06-May-2023
 - By default Cloudflare HTMLRewriter sanitize the content in .before() or .after(), we need to set the contentOptions in order to parse correct html https://github.com/cloudflare/workers-types/issues/9#issue-510825698
+- Extract image metadata on browser using https://mutiny.cz/exifr/
