@@ -143,3 +143,6 @@ This file contain early ideas, useful links or quick gists during the working
 
 ## 28-04-2023
 - .slice(0,-1) to get the array from beginning to second-to-last items
+
+## 06-May-2023
+- By default Cloudflare HTMLRewriter sanitize the content in .before() or .after(), we need to set the contentOptions in order to parse correct html https://github.com/cloudflare/workers-types/issues/9#issue-510825698
