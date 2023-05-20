@@ -150,3 +150,5 @@ This file contain early ideas, useful links or quick gists during the working
 ```
 window.exifr.parse('https://images.squarespace-cdn.com/content/v1/5e2bd0e12d65b351475dae37/1668287141998-IK2C7FYRB02EKBJP0F6C/2022-ukraine-war-picture-story-first-place-1-81a7d6.jpg?format=2500w', {iptc: true}).then(exif => console.log(exif.ObjectName))
 ```
+## 20-May-2023
+- Can not find github version on jsdelivr, using commit hash instead, make it `https://cdn.jsdelivr.net/gh/{user}/{repo}@f7b7d6330709addbc70997ca73ca6aee65d8cbc6/src/highlight-block/index.js`, stop at `/src` print the folder structure
