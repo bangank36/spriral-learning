@@ -153,3 +153,6 @@ window.exifr.parse('https://images.squarespace-cdn.com/content/v1/5e2bd0e12d65b3
 ## 20-May-2023
 - Can not find github version on jsdelivr, using commit hash instead, make it `https://cdn.jsdelivr.net/gh/{user}/{repo}@f7b7d6330709addbc70997ca73ca6aee65d8cbc6/src/highlight-block/index.js`, stop at `/src` print the folder structure
 - More info https://github.com/jsdelivr/jsdelivr/issues/18081
+
+## 24-May-2023
+- `gfm` may stands for Github Flavored Markdown in some document
