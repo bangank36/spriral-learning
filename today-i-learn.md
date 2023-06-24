@@ -157,10 +157,11 @@ window.exifr.parse('https://images.squarespace-cdn.com/content/v1/5e2bd0e12d65b3
 ## 24-May-2023
 - `gfm` may stands for Github Flavored Markdown in some document
 - 
-## 16-May-2023
+## 16-June-2023
 In version 6 of React Router, the useHistory() hook is replaced with useNavigate().
 
-## 17-May-2023
+## 17-June-2023
 - loadjs won't recognize google font as CSS file, force it as CSS file using: 'css!https://fonts.googleapis.com/icon?family=Material+Icons',
 
-
+## 24-June-2023
+- Util for detecting image load status https://stackoverflow.com/a/1977898
