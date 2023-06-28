@@ -165,3 +165,8 @@ In version 6 of React Router, the useHistory() hook is replaced with useNavigate
 
 ## 24-June-2023
 - Util for detecting image load status https://stackoverflow.com/a/1977898
+  
+## 28-June-2023
+- parent.postMessage(obj, 'whatever'); `Uncaught DOMException: Failed to execute 'postMessage' on 'Window': An object could not be cloned.`, since the passed object has methods, need to sanitize it to JSON to continue
+
+
