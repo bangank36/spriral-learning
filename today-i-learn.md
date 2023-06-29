@@ -169,4 +169,5 @@ In version 6 of React Router, the useHistory() hook is replaced with useNavigate
 ## 28-June-2023
 - parent.postMessage(obj, 'whatever'); `Uncaught DOMException: Failed to execute 'postMessage' on 'Window': An object could not be cloned.`, since the passed object has methods, need to sanitize it to JSON to continue
 
-
+## 29-June-2023
+- jsonforms tester methods for control https://github.com/eclipsesource/jsonforms/blob/7e0115feeced7711b0768d325566aaa6b054c32b/packages/core/src/testers/testers.ts#L225
