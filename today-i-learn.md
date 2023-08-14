@@ -174,4 +174,4 @@ In version 6 of React Router, the useHistory() hook is replaced with useNavigate
 - https://stackoverflow.com/questions/32070303/uncaught-referenceerror-react-is-not-defined#comment126569922_68876239
 - 
 ## 18-Aug-2023
-- Use `keyof` to get array of props from interface https://stackoverflow.com/a/62477194
+- Use `keyof` to get array of props from interface https://stackoverflow.com/a/62477194, WRONG: it returns type, not value https://blog.logrocket.com/how-to-use-keyof-operator-typescript/
