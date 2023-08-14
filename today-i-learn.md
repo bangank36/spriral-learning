@@ -172,3 +172,6 @@ In version 6 of React Router, the useHistory() hook is replaced with useNavigate
 ## 29-June-2023
 - jsonforms tester methods for control https://github.com/eclipsesource/jsonforms/blob/7e0115feeced7711b0768d325566aaa6b054c32b/packages/core/src/testers/testers.ts#L225
 - https://stackoverflow.com/questions/32070303/uncaught-referenceerror-react-is-not-defined#comment126569922_68876239
+- 
+## 18-Aug-2023
+- Use `keyof` to get array of props from interface https://stackoverflow.com/a/62477194
