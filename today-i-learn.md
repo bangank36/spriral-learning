@@ -173,5 +173,8 @@ In version 6 of React Router, the useHistory() hook is replaced with useNavigate
 - jsonforms tester methods for control https://github.com/eclipsesource/jsonforms/blob/7e0115feeced7711b0768d325566aaa6b054c32b/packages/core/src/testers/testers.ts#L225
 - https://stackoverflow.com/questions/32070303/uncaught-referenceerror-react-is-not-defined#comment126569922_68876239
 - 
-## 18-Aug-2023
+## 14-Aug-2023
 - Use `keyof` to get array of props from interface https://stackoverflow.com/a/62477194, WRONG: it returns type, not value https://blog.logrocket.com/how-to-use-keyof-operator-typescript/
+
+## 16-Aug-2023
+- Usage of [ArgTable](https://github.com/equinor/design-system/blob/dc8c22fcf950bab923ed11f9432bdb76e7891924/packages/eds-lab-react/.storybook/components/PropsTable.tsx#L1C1-L5C2) to display arg table with controls, some more discussions on [the story selection](https://togithub.com/storybookjs/storybook/discussions/17216)
