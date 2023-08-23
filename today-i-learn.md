@@ -178,3 +178,6 @@ In version 6 of React Router, the useHistory() hook is replaced with useNavigate
 
 ## 16-Aug-2023
 - Usage of [ArgTable](https://github.com/equinor/design-system/blob/dc8c22fcf950bab923ed11f9432bdb76e7891924/packages/eds-lab-react/.storybook/components/PropsTable.tsx#L1C1-L5C2) to display arg table with controls, some more discussions on [the story selection](https://togithub.com/storybookjs/storybook/discussions/17216)
+
+## 23-Aug-2023
+- SO deep comment [about display, opacity and visibility attribute](https://stackoverflow.com/a/34529598)
