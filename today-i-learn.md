@@ -181,3 +181,4 @@ In version 6 of React Router, the useHistory() hook is replaced with useNavigate
 
 ## 23-Aug-2023
 - SO deep comment [about display, opacity and visibility attribute](https://stackoverflow.com/a/34529598)
+- Open source keystroke caption for MAC https://github.com/keycastr/keycastr
