@@ -182,3 +182,6 @@ In version 6 of React Router, the useHistory() hook is replaced with useNavigate
 ## 23-Aug-2023
 - SO deep comment [about display, opacity and visibility attribute](https://stackoverflow.com/a/34529598)
 - Open source keystroke caption for MAC https://github.com/keycastr/keycastr
+
+## 05-Sep-2023
+- [How to access an object from an object nested function with this keyword?](https://stackoverflow.com/questions/71750201/how-to-access-an-object-from-an-object-nested-function-with-this-keyword) - just use the var name, eg: popup_data
