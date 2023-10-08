@@ -185,3 +185,6 @@ In version 6 of React Router, the useHistory() hook is replaced with useNavigate
 
 ## 05-Sep-2023
 - [How to access an object from an object nested function with this keyword?](https://stackoverflow.com/questions/71750201/how-to-access-an-object-from-an-object-nested-function-with-this-keyword) - just use the var name, eg: popup_data
+
+## 08-Oct-2023
+- https://github.com/lmstudio-ai to run llm model without manuall run llama.cpp
